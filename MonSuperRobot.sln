@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonSuperRobot", "MonSuperRobot\MonSuperRobot.csproj", "{F714B7BA-DC2C-4789-9173-8A6012EC8B9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonSuperRobotTest", "MonSuperRobotTest\MonSuperRobotTest.csproj", "{02B4F9EB-9312-4BCA-9BCB-32A7F7606E31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F714B7BA-DC2C-4789-9173-8A6012EC8B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F714B7BA-DC2C-4789-9173-8A6012EC8B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F714B7BA-DC2C-4789-9173-8A6012EC8B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F714B7BA-DC2C-4789-9173-8A6012EC8B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B4F9EB-9312-4BCA-9BCB-32A7F7606E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B4F9EB-9312-4BCA-9BCB-32A7F7606E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B4F9EB-9312-4BCA-9BCB-32A7F7606E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B4F9EB-9312-4BCA-9BCB-32A7F7606E31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
