@@ -1,0 +1,11 @@
+C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobotTest\bin\Debug\MonSuperRobotTest.dll
+C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobotTest\bin\Debug\MonSuperRobotTest.pdb
+C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobotTest\bin\Debug\JFabre.MyRobot.dll
+C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobotTest\bin\Debug\Moq.dll
+C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobotTest\bin\Debug\nunit.framework.dll
+C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobotTest\bin\Debug\robocode.dll
+C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobotTest\bin\Debug\JFabre.MyRobot.pdb
+C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobotTest\bin\Debug\robocode.xml
+C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobotTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobotTest\obj\Debug\MonSuperRobotTest.dll
+C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobotTest\obj\Debug\MonSuperRobotTest.pdb

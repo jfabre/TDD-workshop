@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\MonSuperRobot\MonSuperRobotTest\bin\Release\MonSuperRobotTest.nunit" total="0" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2011-03-28" time="22:16:23">
+  <environment nunit-version="2.5.9.10348" clr-version="2.0.50727.5420" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.5.9\bin\net-2.0" machine-name="JEREMY-PC" user="Jeremy" user-domain="Jeremy-PC" />
+  <culture-info current-culture="en-CA" current-uiculture="en-US" />
+  <test-suite type="Project" name="C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\MonSuperRobot\MonSuperRobotTest\bin\Release\MonSuperRobotTest.nunit" executed="True" result="Inconclusive" success="False" time="0.007" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\MonSuperRobot\MonSuperRobotTest\bin\Release\JFabre.MyRobot.dll" executed="False" result="NotRunnable">
+        <reason>
+          <message><![CDATA[Has no TestFixtures]]></message>
+        </reason>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

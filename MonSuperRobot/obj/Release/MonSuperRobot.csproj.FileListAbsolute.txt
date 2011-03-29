@@ -1,0 +1,7 @@
+C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobot\bin\Release\JFabre.MyRobot.dll
+C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobot\bin\Release\JFabre.MyRobot.pdb
+C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobot\bin\Release\robocode.dll
+C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobot\bin\Release\robocode.xml
+C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobot\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobot\obj\Release\JFabre.MyRobot.dll
+C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobot\obj\Release\JFabre.MyRobot.pdb
