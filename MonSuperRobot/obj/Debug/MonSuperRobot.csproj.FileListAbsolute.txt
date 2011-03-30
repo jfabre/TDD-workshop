@@ -5,3 +5,10 @@ C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobo
 C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobot\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobot\obj\Debug\JFabre.MyRobot.dll
 C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobot\obj\Debug\JFabre.MyRobot.pdb
+C:\dev\jfabre-TDD-workshop-baafed4\MonSuperRobot\bin\Debug\JFabre.MyRobot.dll
+C:\dev\jfabre-TDD-workshop-baafed4\MonSuperRobot\bin\Debug\JFabre.MyRobot.pdb
+C:\dev\jfabre-TDD-workshop-baafed4\MonSuperRobot\bin\Debug\robocode.dll
+C:\dev\jfabre-TDD-workshop-baafed4\MonSuperRobot\bin\Debug\robocode.xml
+C:\dev\jfabre-TDD-workshop-baafed4\MonSuperRobot\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\jfabre-TDD-workshop-baafed4\MonSuperRobot\obj\Debug\JFabre.MyRobot.dll
+C:\dev\jfabre-TDD-workshop-baafed4\MonSuperRobot\obj\Debug\JFabre.MyRobot.pdb

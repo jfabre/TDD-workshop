@@ -1,0 +1,66 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="02B4F9EB-9312-4BCA-9BCB-32A7F7606E31/f:MyRobotTest.cs" caret="686" fromTop="19" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TurnEvent.cs" caret="0" fromTop="0" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:MyNewRobot.cs" caret="229" fromTop="9" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:ChooseDirectionEvent.cs" caret="0" fromTop="0" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:NavigationSystem.cs" caret="246" fromTop="10" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:MyRobot.cs" caret="791" fromTop="24" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:DefaultRobot.cs" caret="159" fromTop="8" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="1329" fromTop="30" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:MyTestableRobot.cs" caret="195" fromTop="10" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:ITestableRobot.cs" caret="345" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="74" fromTop="0" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="340" fromTop="8" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="238" fromTop="8" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="673" fromTop="25" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="1560" fromTop="19" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="1967" fromTop="25" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="2187" fromTop="32" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="1928" fromTop="22" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="2322" fromTop="25" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="2422" fromTop="30" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="2547" fromTop="29" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="2663" fromTop="25" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="2776" fromTop="24" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="2904" fromTop="23" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="3026" fromTop="19" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="3127" fromTop="21" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="509" fromTop="24" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="468" fromTop="16" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:MyTestableRobot.cs" caret="195" fromTop="13" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:NavigationSystem.cs" caret="246" fromTop="10" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:MyTestableRobot.cs" caret="18" fromTop="0" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:DefaultRobot.cs" caret="167" fromTop="8" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="367" fromTop="10" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="940" fromTop="13" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="1253" fromTop="10" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="1688" fromTop="18" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:TestableRobot.cs" caret="1803" fromTop="23" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:ITestableRobot.cs" caret="426" fromTop="29" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:ITestableRobot.cs" caret="383" fromTop="16" />
+      <File id="F714B7BA-DC2C-4789-9173-8A6012EC8B9D/f:ITestableRobot.cs" caret="267" fromTop="11" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

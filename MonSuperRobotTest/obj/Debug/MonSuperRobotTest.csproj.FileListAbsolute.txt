@@ -9,3 +9,17 @@ C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobo
 C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobotTest\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobotTest\obj\Debug\MonSuperRobotTest.dll
 C:\Users\Jeremy\documents\visual studio 2010\Projects\MonSuperRobot\MonSuperRobotTest\obj\Debug\MonSuperRobotTest.pdb
+C:\dev\jfabre-TDD-workshop-baafed4\MonSuperRobotTest\bin\Debug\MonSuperRobotTest.dll
+C:\dev\jfabre-TDD-workshop-baafed4\MonSuperRobotTest\bin\Debug\MonSuperRobotTest.pdb
+C:\dev\jfabre-TDD-workshop-baafed4\MonSuperRobotTest\bin\Debug\JFabre.MyRobot.dll
+C:\dev\jfabre-TDD-workshop-baafed4\MonSuperRobotTest\bin\Debug\Moq.dll
+C:\dev\jfabre-TDD-workshop-baafed4\MonSuperRobotTest\bin\Debug\nunit.framework.dll
+C:\dev\jfabre-TDD-workshop-baafed4\MonSuperRobotTest\bin\Debug\robocode.dll
+C:\dev\jfabre-TDD-workshop-baafed4\MonSuperRobotTest\bin\Debug\JFabre.MyRobot.pdb
+C:\dev\jfabre-TDD-workshop-baafed4\MonSuperRobotTest\bin\Debug\robocode.xml
+C:\dev\jfabre-TDD-workshop-baafed4\MonSuperRobotTest\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\jfabre-TDD-workshop-baafed4\MonSuperRobotTest\obj\Debug\MonSuperRobotTest.dll
+C:\dev\jfabre-TDD-workshop-baafed4\MonSuperRobotTest\obj\Debug\MonSuperRobotTest.pdb
+C:\dev\jfabre-TDD-workshop-baafed4\MonSuperRobotTest\bin\Debug\robocode.control.dll
+C:\dev\jfabre-TDD-workshop-baafed4\MonSuperRobotTest\bin\Debug\jni4net.n-0.8.0.0.dll
+C:\dev\jfabre-TDD-workshop-baafed4\MonSuperRobotTest\bin\Debug\robocode.control.xml

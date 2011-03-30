@@ -1,13 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Linq;
 using NUnit.Framework;
 using JFabre;
 using Robocode;
 
 namespace MonSuperRobotTest
 {
+    //Resharper Disable InconsistentNaming
     [TestFixture]
     public class GivenMyRobot
     {
@@ -20,7 +18,7 @@ namespace MonSuperRobotTest
         }
 
         [Test]
-        public void When_my_robot_is_hit_Then_it_should_change_its_direction_to_the_opposite()
+        public void When_my_robot_is_hit_Then_it_should_change_its_direction_so_that_it_avoids_the_next_bullet()
         { 
             var myEvent = new HitByBulletEvent(0, new Bullet(180, 10, 20, 2, "", "", true, 1));
             _robot.OnHitByBullet(myEvent);
