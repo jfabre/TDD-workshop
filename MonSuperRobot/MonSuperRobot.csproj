@@ -44,16 +44,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ChooseDirectionEvent.cs" />
-    <Compile Include="DefaultRobot.cs" />
-    <Compile Include="ITestableRobot.cs" />
-    <Compile Include="MyNewRobot.cs" />
-    <Compile Include="MyRobot.cs" />
-    <Compile Include="MyTestableRobot.cs" />
-    <Compile Include="NavigationSystem.cs" />
+    <Compile Include="Base\ITestableRobot.cs" />
+    <Compile Include="MadMax.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TestableRobot.cs" />
-    <Compile Include="TurnEvent.cs" />
+    <Compile Include="Base\TestableRobot.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

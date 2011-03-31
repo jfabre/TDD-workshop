@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
   <TopNode>[0-1004]C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\MonSuperRobot\MonSuperRobotTest\bin\Debug\MonSuperRobotTest.dll</TopNode>
-  <SelectedNode>[0-1003]MonSuperRobotTest.GivenMyRobot.When_my_robot_choose_a_direction_and_the_current_position_is_east_Then_the_next_position_should_be_south</SelectedNode>
+  <SelectedNode>[0-1000]MonSuperRobotTest.GivenMyRobot</SelectedNode>
   <ExcludeCategories>false</ExcludeCategories>
   <Nodes>
     <Node UniqueName="[0-1004]C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\MonSuperRobot\MonSuperRobotTest\bin\Debug\MonSuperRobotTest.dll" Expanded="true" />
